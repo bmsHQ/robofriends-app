@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MR ROBOT';
+    src: url('./MR\ ROBOT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: "MR ROBOT";
+    font-weight: 200;
+    color: rgb(98, 195, 251);
+}
